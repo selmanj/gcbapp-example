@@ -17,3 +17,4 @@ steps:
   args: [ 'build', '-t', 'gcr.io/$PROJECT_ID/helloworld-image', '.' ]
 images:
 - 'gcr.io/$PROJECT_ID/helloworld-image'
+tags: ['gcb-my-first-build']
