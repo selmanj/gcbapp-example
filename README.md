@@ -1,3 +1,4 @@
-# gcbapp-example
-Example used in the Cloud Build GitHub app tutorial
-https://cloud.google.com/cloud-build/docs/run-builds-on-github
+# gcbapp-sample-build
+
+This is a simple hello-world application to demonstrate how to build a container
+image in Google Cloud Build.
